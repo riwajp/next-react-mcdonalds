@@ -1,0 +1,48 @@
+{
+    "Beverages":[ {"name":"Coca-Cola","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Coca-Cola-Classic-Small.jpg?$Category_Desktop$"} ,
+                {"name":"Sprite","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Sprite-Small.jpg?$Category_Desktop$"},
+                {"name":"Dr. Pepepr","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Dr-Pepper-Small.jpg?$Category_Desktop$"},
+                {"name":"Fanta","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-fanta-orange.jpg?$Category_Desktop$"},
+                {"name":"Diet Coke","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Diet-Coke-Small.jpg?$Category_Desktop$"},
+                {"name":"Strawberry Banana Smoothie","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Strawberry-Banana-Smoothie-Medium.jpg?$Category_Desktop$"}
+    ],
+    "Breakfast":[{"name":"Bacon, Egg and Cheese Biscuit","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Bacon-Egg-Cheese-Biscuit-Regular-Size-Biscuit.jpg?$Category_Desktop$"},
+        {"name":"Egg McMuffin","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Egg-McMuffin.jpg?$Category_Desktop$"},
+        {"name":"Sausge McMuffin","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Sausage-McMuffin.jpg?$Category_Desktop$"},
+        {"name":"Sausage Burrito","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Sausage-Burrito.jpg?$Category_Desktop$"},
+        {"name":"Fruit and Maple Oatmeal","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Fruit-Maple-Oatmeal.jpg?$Category_Desktop$"},
+        {"name":"Hotcakes and Sausage","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Hotcakes-and-Sausage.jpg?$Category_Desktop$"}
+    
+    ],
+    "Burgers":[{"name":"Big Mac","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Big-Mac.jpg?$Category_Desktop$"},
+    {"name":"Quarter Pounder with Cheese","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Quarter-Pounder-with-Cheese.jpg?$Category_Desktop$"},
+    {"name":"Double Quarter Pounder with Cheese","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Double-Quarter-Pounder-with-Cheese.jpg?$Category_Desktop$"},
+    {"name":"McDouble","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-McDouble.jpg?$Category_Desktop$"},
+    {"name":"Quarter Pounder with Cheese Bacon","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-qpc-bacon.jpg?$Category_Desktop$"},
+    {"name":"Cheeseburger","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Cheeseburger.jpg?$Category_Desktop$"}
+],
+"Chicken & Sandwiches":[
+    {"name":"Spicy Deluxe Crispy Chicken Sandwich","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-spicy-deluxe-crispy-chicken-sandwich.jpg?$Category_Desktop$"},
+    {"name":"Crispy Chicken Sandwich","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-crispy-chicken-sandwich.jpg?$Category_Desktop$"},
+    {"name":"Chicken McNuggets","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Chicken-McNuggets-4pc.jpg?$Category_Desktop$"},
+    {"name":"Filet-O-Fish","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Filet-O-Fish.png?$Category_Desktop$"},
+    {"name":"McChicken","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-McChicken.jpg?$Category_Desktop$"},
+    {"name":"Deluxe Crispy Chicken Sandwich","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-deluxe-crispy-chicken-sandwich.jpg?$Category_Desktop$"}
+],
+"Combo Meal":[
+    {"name":"Big Mac Combo Meal","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/regular/desktop/h-mcdonalds-Big-Mac-Extra-Value-Meals.jpg?$Category_Desktop$"},
+    {"name":"Cheeseburger Combo Meal","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/regular/desktop/h-mcdonalds-2-Cheeseburger-Extra-Value-Meals.jpg?$Category_Desktop$"},
+    {"name":"Quarter Pounder with Cheese Meal","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/regular/desktop/h-mcdonalds-Quarter-Pounder-with-Cheese-Extra-Value-Meals.jpg?$Category_Desktop$"},
+    {"name":"Double Quarter Pounder with Cheese Meal","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/regular/desktop/h-mcdonalds-Double-Quarter-Pounder-with-Cheese-Extra-Value-Meals-combo.jpg?$Category_Desktop$"},
+    {"name":"Spicy Crispy Chicken Sandwich Combo Meal","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/regular/desktop/h-spicy-crispy-chicken-sandwich-meal-combo.jpg?$Category_Desktop$"},
+    {"name":"Egg McMuffin Meal","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/regular/desktop/h-mcdonalds-Egg-McMuffin-Extra-Value-Meals.jpg?$Category_Desktop$"}
+],
+"Desserts":[
+    {"name":"McFlurry with OREO Cookies","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-oreo-mcflurry-snack.jpg?$Category_Desktop$"},
+    {"name":"MCFlurry with M&M's Candies","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mm-mcflurry-snack.jpg?$Category_Desktop$"},
+    {"name":"Hot Fudge Sundae","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Hot-Fudge-Sundae.jpg?$Category_Desktop$"},
+    {"name":"Baked Apple Pie","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Baked-Hot-Apple-Pie.jpg?$Category_Desktop$"},
+    {"name":"Hot Caramel Sundae","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Hot-Caramel-Sundae.jpg?$Category_Desktop$"},
+    {"name":"Chocolate Shake","image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/iconic/desktop/t-mcdonalds-Chocolate-McCafe-Shake-Medium.jpg?$Category_Desktop$"}
+]
+}
